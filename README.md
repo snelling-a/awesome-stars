@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
@@ -15,12 +16,15 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [Scheme](#scheme)
 - [Shell](#shell)
 - [Swift](#swift)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+
+## Astro 
+
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 
 ## CSS 
 
@@ -115,10 +119,6 @@
 
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 
-## Scheme 
-
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
-
 ## Shell 
 
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
@@ -129,6 +129,7 @@
 
 ## Tree-sitter Query 
 
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
@@ -137,7 +138,6 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [brendanmz/react-hooks-best-practices](https://github.com/brendanmz/react-hooks-best-practices) - 
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 
 ## Vim Script 
