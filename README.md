@@ -7,7 +7,6 @@
 
 - [CSS](#css)
 - [Go](#go)
-- [HTML](#html)
 - [Janet](#janet)
 - [JavaScript](#javascript)
 - [Lua](#lua)
@@ -29,10 +28,6 @@
 ## Go 
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-
-## HTML 
-
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Janet 
 
@@ -106,6 +101,7 @@
 
 ## Python 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 
 ## Ruby 
