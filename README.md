@@ -94,7 +94,7 @@
 
 ## Others 
 
-- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) - 
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) - 
 - [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list) - List of the links to the docs for different services, which explain using of advanced search operators
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [dheerajydv19/Google-Dorks-Simplified](https://github.com/dheerajydv19/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
