@@ -55,6 +55,7 @@
 - [typescript](#typescript)
 - [vim](#vim)
 - [vuejs](#vuejs)
+- [zsh](#zsh)
 
 ## android 
 
@@ -153,7 +154,6 @@
 ## hacktoberfest 
 
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
-- [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more
@@ -374,6 +374,11 @@
 ## vuejs 
 
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
+
+## zsh 
+
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 
 
 ## License
