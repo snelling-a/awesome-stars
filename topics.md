@@ -37,6 +37,7 @@
 - [markdown](#markdown)
 - [neovim](#neovim)
 - [nodejs](#nodejs)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [osint](#osint)
@@ -266,6 +267,10 @@
 
 - [mxsdev/nvim-dap-vscode-js](https://github.com/mxsdev/nvim-dap-vscode-js) - nvim-dap adapter for vscode-js-debug
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+
+## obsidian 
+
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 
 ## obsidian-md 
 
