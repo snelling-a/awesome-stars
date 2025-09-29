@@ -57,6 +57,7 @@
 - [typescript](#typescript)
 - [vim](#vim)
 - [vuejs](#vuejs)
+- [zsh](#zsh)
 
 ## android 
 
@@ -383,6 +384,11 @@
 ## vuejs 
 
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
+
+## zsh 
+
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 
 
 ## License
