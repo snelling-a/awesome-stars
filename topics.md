@@ -287,6 +287,7 @@
 
 ## others 
 
+- [the-coding-doggo/batman.nvim](https://github.com/the-coding-doggo/batman.nvim) - A colorscheme for the nvim cape crusaders
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) - 
 - [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list) - List of the links to the docs for different services, which explain using of advanced search operators
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
