@@ -43,6 +43,7 @@
 
 ## Lua 
 
+- [the-coding-doggo/batman.nvim](https://github.com/the-coding-doggo/batman.nvim) - A colorscheme for the nvim cape crusaders
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
 - [boltlessengineer/NativeVim](https://github.com/boltlessengineer/NativeVim) - Neovim config WITHOUT plugins
