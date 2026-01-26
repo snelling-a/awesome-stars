@@ -36,6 +36,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [neovim](#neovim)
+- [neovim-colorscheme](#neovim-colorscheme)
 - [nodejs](#nodejs)
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
@@ -263,6 +264,10 @@
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content 
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 🛍 JSON schemas for Neovim
+
+## neovim-colorscheme 
+
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 
 ## nodejs 
 
