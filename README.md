@@ -14,7 +14,6 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
 - [Tree-sitter Query](#tree-sitter-query)
@@ -113,10 +112,7 @@
 ## Rust 
 
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
-
-## SCSS 
-
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 
 ## Shell 
 
