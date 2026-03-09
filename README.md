@@ -11,6 +11,7 @@
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -99,6 +100,10 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [dheerajydv19/Google-Dorks-Simplified](https://github.com/dheerajydv19/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+## PHP 
+
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
 ## Python 
 
