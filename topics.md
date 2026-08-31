@@ -94,7 +94,7 @@
 
 ## cybersecurity 
 
-- [dheerajydv19/Google-Dorks-Simplified](https://github.com/dheerajydv19/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 
 ## database 
 
@@ -143,7 +143,7 @@
 
 ## google 
 
-- [dheerajydv19/Google-Dorks-Simplified](https://github.com/dheerajydv19/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 
 ## graphql 
 
@@ -152,7 +152,7 @@
 ## hacking 
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [dheerajydv19/Google-Dorks-Simplified](https://github.com/dheerajydv19/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## hacktoberfest 
@@ -289,7 +289,7 @@
 
 ## osint 
 
-- [dheerajydv19/Google-Dorks-Simplified](https://github.com/dheerajydv19/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 
 ## others 
 
@@ -351,7 +351,7 @@
 ## security 
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [dheerajydv19/Google-Dorks-Simplified](https://github.com/dheerajydv19/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## self-hosted 
