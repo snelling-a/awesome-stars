@@ -16,6 +16,7 @@
 - [database](#database)
 - [devops](#devops)
 - [discord](#discord)
+- [docker](#docker)
 - [dotfiles](#dotfiles)
 - [education](#education)
 - [emoji](#emoji)
@@ -40,7 +41,6 @@
 - [nodejs](#nodejs)
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
-- [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
@@ -56,7 +56,6 @@
 - [sqlite](#sqlite)
 - [swift](#swift)
 - [terminal](#terminal)
-- [typescript](#typescript)
 - [vim](#vim)
 - [vuejs](#vuejs)
 - [zsh](#zsh)
@@ -94,7 +93,7 @@
 
 ## cybersecurity 
 
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 
 ## database 
 
@@ -106,7 +105,11 @@
 
 ## discord 
 
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+
+## docker 
+
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
 
 ## dotfiles 
 
@@ -139,11 +142,11 @@
 
 ## golang 
 
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
 
 ## google 
 
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 
 ## graphql 
 
@@ -152,7 +155,7 @@
 ## hacking 
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## hacktoberfest 
@@ -166,7 +169,6 @@
 ## javascript 
 
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## json 
@@ -283,13 +285,9 @@
 
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 
-## open-source 
-
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
-
 ## osint 
 
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 
 ## others 
 
@@ -351,12 +349,13 @@
 ## security 
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## self-hosted 
 
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
 
 ## shell 
 
@@ -374,10 +373,6 @@
 ## terminal 
 
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
-
-## typescript 
-
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 
 ## vim 
 
