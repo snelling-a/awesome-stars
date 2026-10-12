@@ -105,11 +105,11 @@
 
 ## discord 
 
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 
 ## docker 
 
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 
 ## dotfiles 
 
@@ -142,7 +142,7 @@
 
 ## golang 
 
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 
 ## google 
 
@@ -355,7 +355,7 @@
 ## self-hosted 
 
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 
 ## shell 
 
