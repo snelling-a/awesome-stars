@@ -12,7 +12,6 @@
 - [bash](#bash)
 - [chrome](#chrome)
 - [cli](#cli)
-- [cybersecurity](#cybersecurity)
 - [database](#database)
 - [devops](#devops)
 - [discord](#discord)
@@ -25,7 +24,6 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
-- [google](#google)
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -41,7 +39,6 @@
 - [nodejs](#nodejs)
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
-- [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
@@ -90,10 +87,6 @@
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-
-## cybersecurity 
-
-- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 
 ## database 
 
@@ -144,10 +137,6 @@
 
 - [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 
-## google 
-
-- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
-
 ## graphql 
 
 - [jparise/vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.
@@ -155,7 +144,6 @@
 ## hacking 
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## hacktoberfest 
@@ -285,10 +273,6 @@
 
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 
-## osint 
-
-- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
-
 ## others 
 
 - [the-coding-doggo/batman.nvim](https://github.com/the-coding-doggo/batman.nvim) - A colorscheme for the nvim cape crusaders
@@ -349,7 +333,6 @@
 ## security 
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## self-hosted 
