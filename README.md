@@ -27,7 +27,7 @@
 ## Go 
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - A self-hosted web-based dashboard panel to deploy, host, and manage Discord Bots.
 
 ## Janet 
 
